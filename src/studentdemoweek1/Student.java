@@ -63,5 +63,6 @@ public class Student
      */
     public void setProgram(String program) {
         this.program = program;
+        //lets hope this works lol
     }
 }
